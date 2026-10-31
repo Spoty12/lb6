@@ -9,9 +9,9 @@ int main() {
 
 	double F;
 	double x;
-	const double pi = 3.141592653589793
+	const double pi = 3.141592653589793;
 
-	printf("Ââåäèòå çíà÷åíèå x: ");
+	printf("Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã§Ã­Ã Ã·Ã¥Ã­Ã¨Ã¥ x: ");
 	scanf_s("%lf", &x);
 
 	if (x >= 0 && x <= 1)
